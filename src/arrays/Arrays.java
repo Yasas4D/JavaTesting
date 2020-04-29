@@ -30,7 +30,7 @@ public class Arrays {
         }
            
         }
-           //System.out.println("not found");
+           
              return false;
     }
     
@@ -41,7 +41,7 @@ public class Arrays {
            }
            if(find(value)){
                System.out.println("value is already exists");
- System.out.println("Return Value->");
+ 
                return;
                
            }
@@ -81,7 +81,7 @@ public class Arrays {
            
 
     /**
-     * @param args the command line arguments
+     * 
      *///174148G
     static int counter = 0;
     public static void main(String[] args) {
