@@ -41,6 +41,7 @@ public class Arrays {
            }
            if(find(value)){
                System.out.println("value is already exists");
+ System.out.println("Return Value->");
                return;
                
            }
@@ -110,27 +111,7 @@ int[]a = {5,2,1,10,12,2,4,9};
         System.out.println("Min is :"+min);
     }
 }
-//        
-//        Scanner sc =new Scanner(System.in);
-//         //int[][] k={{1,2},{5,7},{3,5}};
-////    int[][] k =new int[2][3];
-////        for (int i = 0; i < k.length; i++) {
-////            
-////            for (int j = 0; j < k[i].length; j++) {
-////                k[i][j]=sc.nextInt();
-////            }
-////            System.out.println();
-////        }
-////        
-////        for (int i = 0; i < k.length; i++) {
-////            
-////            for (int j = 0; j < k[i].length; j++) {
-////                System.out.print(k[i][j]+" ");
-////            }
-////            System.out.println();
-////        }
-//
-//
+
 //int count  = 0;
 //
 //        String[] p={"dddd","aaaa","cccc","pppp"};
