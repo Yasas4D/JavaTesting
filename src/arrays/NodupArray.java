@@ -11,5 +11,16 @@ package arrays;
  */
 public class NodupArray {
 
+public static void main(String args[]){
+
+//Add the constructor
+
+//duplications handle
+
+
+//to more?
+
+}
+
 	
 }
