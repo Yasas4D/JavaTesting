@@ -111,17 +111,17 @@ int[]a = {5,2,1,10,12,2,4,9};
 
 
         
-//counting vowels
-//
-//String pp="AEiou";
-//int c=0;
-//        for (int i = 0; i < pp.length(); i++) {
-//            System.out.println(pp.charAt(i));
-//            if
-//        }
-//
-//          
-//    }
+counting vowels
+
+String pp="AEiou";
+int c=0;
+       for (int i = 0; i < pp.length(); i++) {
+           System.out.println(pp.charAt(i));
+            if
+        }
+
+          
+  }
     
     
    
